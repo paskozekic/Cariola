@@ -1,0 +1,4 @@
+repository "ordi projekt/ordi projekt@6872785259263@cloud"
+  path "/"
+    br "/main"
+    co "/main"
