@@ -68,6 +68,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7c46a12557f4ced41866cde740485a5e, type: 2}
+    - target: {fileID: -5754084199372789682, guid: 8e198fb71314f5d4dba4991258161c1e, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 5461320835613783329, guid: 31c3228e2c3879548be48b1db208d34b, type: 3}
     - target: {fileID: 919132149155446097, guid: 8e198fb71314f5d4dba4991258161c1e, type: 3}
       propertyPath: m_Name
       value: ograda2
